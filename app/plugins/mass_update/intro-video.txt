@@ -1,0 +1,12 @@
+Mass Update Plugin for AppGini
+Intro video script
+
+Bob has just finished dispatching 18 orders, and his shift is about to end at last. Before Bob leaves, he has to first mark these orders as shipped in his orders management screen. What a painful task! This will probably take him another 10 minutes or so to do it one by one!
+
+"Is there any easier way to do it all in one step and leave home?" Wonders Bob desperately. Well, yes, Bob! Fortunately, there is an easy way to do this. It's called "Mass Update plugin" ... 
+
+With this plugin, you can define a command for updating the shipping date to either a fixed value, or a value you can specify on the fly.
+
+After the plugin applies the new command to your AppGini app, all you need to do is select your 18 orders, open the 'More' menu, click your newly-defined command, specify the desired ship date, and confirm. That's all there is to it, Bob! This saves you 85 mouse clicks and a few unproductive minutes! All your selected orders are now set to the new ship date, and you can go home at last!
+
+'Mass Update plugin' allows you to define any number of batch commands for any tables in your AppGini application. Applying those batch commands to your daily routine tasks could add up to a saving of 10 hours or so per month. Save your time, worker smarter, and enjoy your new efficient workflow!

@@ -1,0 +1,12 @@
+		<td colspan="3" class="row">
+			<div class="col-md-3"><div id="medical_img-image-<%%VALUE(id)%%>" class="medical_img-image"><a href="<%%TRANSLATION(ImageFolder)%%><%%VALUE(image)%%>" data-lightbox="medical_img-image"><img src="thumbnail.php?i=<%%VALUE(image)%%>&t=medical_img&f=image&v=tv" class="img-thumbnail"></a></div></div>
+			<div class="col-md-9">				<dl class="dl-horizontal">
+					<dt class="medical_img-patient-caption field-caption-tv">Patient</dt>
+					<dd id="medical_img-patient-<%%VALUE(id)%%>" class="medical_img-patient"><%%SELECT%%><%%VALUE(patient)%%><%%ENDSELECT%%></dd>
+
+					<dt class="medical_img-description-caption field-caption-tv">Description</dt>
+					<dd id="medical_img-description-<%%VALUE(id)%%>" class="medical_img-description"><%%SELECT%%><%%VALUE(description)%%><%%ENDSELECT%%></dd>
+
+				</dl>
+			</div>
+		</td>

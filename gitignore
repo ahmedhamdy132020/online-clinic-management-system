@@ -1,0 +1,10 @@
+app/config.php
+app/setup.md5
+app/admin/add-ons.cache
+app/plugins
+.vscode
+*.zip
+*.sublime-project
+*.sublime-workspace
+phpcs-report.txt
+*.log
